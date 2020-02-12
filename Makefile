@@ -1,2 +1,2 @@
 all:
-	g++ -Wfatal-errors helloworld.cpp
+	g++ -Wfatal-errors main.cpp
