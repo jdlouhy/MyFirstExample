@@ -5,7 +5,7 @@ using std::cout;
 using std::endl;
 int main()
 {
-	cout<<"Hi, please enter two numbers: " << endl;
+	cout<<      "Hi, please enter two numbers: "     <<        endl;
 	int intone, inttwo;
 	cin >> intone;
 	cin >> inttwo;
