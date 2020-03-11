@@ -9,5 +9,6 @@ int main()
 	int intone, inttwo;
 	cin >> intone;
 	cin >> inttwo;
-	return 0;
+	//should be error not checking to divide by 0.
+	return intone/inttwo;
 }
