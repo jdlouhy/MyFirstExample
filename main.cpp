@@ -10,5 +10,5 @@ int main()
 	cin >> intone;
 	cin >> inttwo;
 	//should be error not checking to divide by 0.
-	return intone/inttwo;
+	return intone/0;
 }
